@@ -1,0 +1,3 @@
+C:\Users\Martin\Desktop\Code\SistemaGestion\SistemaGestion\obj\Debug\SistemaGestion.csproj.AssemblyReference.cache
+C:\Users\Martin\Desktop\Code\SistemaGestion\SistemaGestion\obj\Debug\SistemaGestion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Martin\Desktop\Code\SistemaGestion\SistemaGestion\obj\Debug\SistemaGestion.csproj.CoreCompileInputs.cache
